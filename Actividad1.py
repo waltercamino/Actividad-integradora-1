@@ -58,7 +58,6 @@ print ("""            ---------------------------------
             |        Mas Grande             |      
             |    4 - Encontrar El Numero    | 
             |        Mas Pequeño            |  
-            |    0 - Salir                  |
             ---------------------------------""")
 a = int(input("Ingrese su Opcion: "))
 if a == 1:
