@@ -68,9 +68,9 @@ print ("""Que desa hacer con ellos:
 
 a = int(input("Ingrese su Opcion: "))
 if a == 1:
-    print("La suma de los numeros ingresados es igual a: ",Sumar(lista)) 
+    print("La suma de los numeros ingresados es igual a: ", Sumar(lista)) 
 elif a == 2:
-    print("El Promedio es: ",Promedio(lista))
+    print("El Promedio es: ", Promedio(lista))
 elif a == 3:
     Maximo(lista)
     #Maximo()
