@@ -62,8 +62,7 @@ print ("""            ---------------------------------
             ---------------------------------""")
 a = int(input("Ingrese su Opcion: "))
 if a == 1:
-    print("""            ---------------------------------
-            |   La suma es igual a: """, Sumar(lista) ) 
+    print("La suma es igual a: ", Sumar(lista) ) 
 elif a == 2:
     print("El Promedio es: ", Promedio(lista))
 elif a == 3:
